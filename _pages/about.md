@@ -11,7 +11,7 @@ I am a theoretical and computational seismologist. Over the past few years, I ha
 
 I work on:
 
-Wave propagation theory and inversion
+Wave propagation theory and inversion.
 ======
 .
 
